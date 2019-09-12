@@ -1,0 +1,7 @@
+.git
+.gitignore
+.ipynb_checkpoints
+Dockerfile
+data
+outputs
+slides
